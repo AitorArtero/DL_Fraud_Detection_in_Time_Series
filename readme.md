@@ -8,6 +8,8 @@ Credit card fraud detection is a critical issue for financial institutions. In t
 
 The project uses a standard fraud detection dataset containing transactions made by European cardholders during a weekrnd period.
 
+Dataset used: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Approaches
 
 This project presents two main strategies to address class imbalance:
